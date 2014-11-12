@@ -16,3 +16,4 @@ If you have a local copy of this repo you can also use symbolic-link:
   echo "src-link openwisp /path/to/local/git/repo/" >> feeds.conf
   ./scripts/feeds update
 
+For more information about the OpenWISP Project see http://openwisp.org/
