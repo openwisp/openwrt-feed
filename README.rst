@@ -37,3 +37,9 @@ Example to compile Openwrt
     make defconfig;
     make -j 4;
   done
+
+
+Info
+----
+
+For more information about the OpenWISP Project see http://openwisp.org/
